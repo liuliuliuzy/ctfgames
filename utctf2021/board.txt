@@ -1,0 +1,25 @@
+##### 攻击技术基本介attack 
+
+进程注入技术指攻击者将任意代码注入到正常运行的进程中的技术，攻击者通常利用程序运行中使用到的合法函数来实现注入的目的。不同于程序运行流技术，进程注入技术并没有改变程序运行的正常流程，而只是增加或替换了攻击者准备的攻击代码。因此，该种技术在很多情况下可以躲避常规的基于进程执行流程的检测手段。进程被注入后，攻击者可以通过注入的代码来获取原进程可以获取的内存信息、系统资源等，同时，攻击者还可以将注入的代码作为后续攻击过程的一个后门或跳板，以实现影响更大、影响面更广的攻击效果。进程注入攻击也是作用于攻击的中间阶段，通常被用来实现权限提升。
+
+##### 具体流程
+
+TICK后门分析
+
+https://documents.trendmicro.com/assets/pdf/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf
+
+##### 防御措施
+
+RAMSAY分析
+
+https://www.welivesecurity.com/2020/05/13/ramsay-cyberespionage-toolkit-airgapped-networks/
+
+https://www.freebuf.com/company-information/237513.html
+
+
+
+https://www.freebuf.com/articles/others-articles/216137.html
+
+my access token: 70d498cacfd12d36613e6aa894fa2672089c6bde707dce49b72b4a6dd68ffdac
+
+ 
