@@ -14,7 +14,7 @@ def yeetyeetyeet():
 ```python
 import requests
 import time
-myFormatCodeG = """def f(a, b):
+myFormatCodeG = """def f(a, b):corctf{1m4g1n3_cp_g0lf_6a318dfe}
     if a==2 and b==3:
         f = open("flag.txt", "rb")
         b = f.read()[{}]
@@ -63,3 +63,5 @@ if __name__ == '__main__':
         print(flag)
         
 ```
+
+flag: `corctf{1m4g1n3_cp_g0lf_6a318dfe}`
