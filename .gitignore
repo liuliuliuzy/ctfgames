@@ -1,2 +1,6 @@
 **/*.idb
 **/*.i64
+**/core
+**/.gdb_history
+**/test.c
+**/test.py
